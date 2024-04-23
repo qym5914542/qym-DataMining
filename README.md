@@ -7,7 +7,9 @@
 
 ## 三.上传PPT
 ### 点击Add file选项，选择upload files，上传PPT，点击commit changes保存。
+# 
+# 
 
-## 想学习的计算机技能
+# 想学习的计算机技能
 ### Pytorch框架下图像增强、自然语言处理、图像生成的相关技术
 ### 基于深度学习、Pytorch框架下VIT以及变体模型的研究与复现
